@@ -45,11 +45,11 @@ nav ul li {
 
 a {
     color: #ffffff;
-    
+    text-decoration: none;
 }
-
-a:hover {
-    text-decoration: #d9dcd6;;
+/* added hover selecter and color */
+a:hover { 
+    color: #d9dcd6;
 }
 
 p {
