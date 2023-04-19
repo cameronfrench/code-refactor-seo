@@ -149,6 +149,7 @@ p {
     color: #ffffff;
 }
 
+/* changed search, onlnie, social, to posts to reduce the amount of selects and to align with the updated class on the element */
 .posts img {
     max-height: 200px;
 }
