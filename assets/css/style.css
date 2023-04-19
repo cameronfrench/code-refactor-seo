@@ -102,20 +102,8 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
-
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
+/* Changed benefit lead, brand, and cost img to benefit img to consolidate */
+.benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
