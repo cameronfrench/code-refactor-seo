@@ -1,4 +1,4 @@
-# <Code-Recfactor-SEO>
+# Code Recfactor SEO
 
 ## Description
 
