@@ -14,3 +14,4 @@ providing the ability for search engines to read the code more effeciently, to t
 
 ## Link to Project
 
+https://cameronfrench.github.io/code-refactor-seo/
